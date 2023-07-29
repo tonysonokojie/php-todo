@@ -72,7 +72,7 @@ pipeline {
                     "files": [
                       {
                        "pattern": "php-todo.zip",
-                       "target": "JFrog/php-todo",
+                       "target": "generic-local/php-todo",
                        "props": "type=zip;status=ready"
 
                        }
